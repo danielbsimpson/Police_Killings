@@ -9,7 +9,7 @@ First the dataset is imported and a pie chart to compare percentage of killings 
 
 ## e.g.:
 
-![](California_Police Murder Rate_Police.pngng)
+![](California_Police Murder Rate_Police.png)
 
 
 Next the population dataset is imported and a comparison of the pie chart with an equivalent pie chart for population percentage. The top 5 states with the biggest
