@@ -27,4 +27,5 @@ Finally a graph depicting the police killings per 100,000 for each demographic:
 
 ![](Police_Murder_Rate.png)
 
+
 Please see the Police_killings.py file for the full code.
