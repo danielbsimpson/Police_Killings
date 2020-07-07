@@ -29,3 +29,5 @@ Finally a graph depicting the police killings per 100,000 for each demographic:
 
 
 Please see the Police_killings.py file for the full code.
+
+For a more detailed description of this project please visit the Kaggle notebook at https://www.kaggle.com/dbsimpson/police-killing-by-race-and-state
